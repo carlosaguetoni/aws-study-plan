@@ -17,7 +17,7 @@ Objetivo: construir base sólida em cloud e preparar para a certificação **AWS
 ## 📆 Plano de Estudos – 4 semanas
 
 ### 🔹 Semana 1 – Fundamentos
-- [ ] Criar conta AWS Free Tier  
+- [x] Criar conta AWS Free Tier  
 - [ ] Curso *Cloud Practitioner Essentials* – Módulo 1  
 - [ ] Curso *Cloud Practitioner Essentials* – Módulo 2  
 - [ ] Criar Bucket no **S3** e armazenar arquivo  
